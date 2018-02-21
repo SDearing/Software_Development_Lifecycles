@@ -1,5 +1,5 @@
 # Software_Development_Lifecycles
-## The Types of Software Development
+## The Different Types of Software Life Cycles
 ### Waterfall Model
 #### What is the Waterfall Lifecycle?
 The waterfall software development lifecylce describes a sequential process that follows certain stages in a linear downward order (like a waterfall), with little flexibility, meaning that to progress to the next step you must complete the one prior and you cannot jump between stages. The logical nature of the sequential process in the waterfall method is why the waterfall method is commonly used as the design process in the industry, however this model is more recently being . The stages are, in order:
@@ -21,3 +21,10 @@ While the waterfall method is losing popularity over the years, it can still pro
 * Delayed Testing Period: The waterfall model only allows testing to occur until quite late in the development process. This means that most bugs/ design issues wont be discovered until very late in the lifecycle.
 ### Evolutionary/Iterative Lifecycle
 #### What is the Evolutionary/Iterative Lifecycle?
+The iterative lifecycle is a method of developing software, this method starts with a simple construction of a small set of the softwares requirements and iteratively enhances the basic software by creating evolutions of the original version until the software is fully complete and meets all the requirements. The iterative life cycle model does not start with all the specifications of the software being planned out, instead development begin by only specifying and developing a section of the software, which is then observed and tested, to see what requirements would be required to improve upon the software. This process is repeated  producing a new version at the end of every iteration, with design modifications and new functions.
+#### Advantages of the Iterative Lifecycle
+* Obtain Results Very Early in Development: This is because in the very early stages of development in the iterative life cycle, there is a working model, this makes finding functional or design flaws simpler. Finding these issues in early development allows the developer to fix these issues before they affect the larger versions of the software.
+* Suited for Larger Projects: This is because the larger project can be broken down into seperate sections of software that can then be iteratively developed.
+* Allows Customer Feedback during Devlopment: As the iterative life cycle creates multiple versions of the same software, versions can be sent to clients to obtain feedback from them, allowing the developer to see if they are developing their software in the right direction.
+#### Disadvantages of the Iterative Lifecycle
+* Not Suitable for Small Projects: This is because smaller projects are harder to breakdown into smaller sections to program.

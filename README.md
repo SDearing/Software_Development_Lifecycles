@@ -2,7 +2,7 @@
 ## The Different Types of Software Life Cycles
 ### Waterfall Model
 #### What is the Waterfall Lifecycle?
-The waterfall software development lifecylce describes a sequential process that follows certain stages in a linear downward order (like a waterfall), with little flexibility, meaning that to progress to the next step you must complete the one prior and you cannot jump between stages. The logical nature of the sequential process, in the waterfall method, is why the waterfall method is commonly used as the design process in the industry. The stages are, in order:
+The waterfall software development lifecylce describes a sequential process that follows certain stages in a linear downward order (like a waterfall), with little flexibility, meaning that to progress to the next step you must complete the one prior and you cannot jump between stages. The logical nature of the sequential process, in the waterfall method, is why the waterfall method is commonly used as the design process in the programming industry. The stages are, in order:
 * Requirement gathering and analysis: The required resources for the project are developed and are documented.
 * System Design: The requirements from the previous stage are studied and the system is then designed, the design helps specify what hardware and system requirements and helps in defining the architecture of the system.
 * Implementation: With inputs from the system design, the system is the designed in small parts called units. Each unit is developed and tested for functionality.
